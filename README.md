@@ -280,8 +280,8 @@ Add screenshots of the following screens:
 
 
 ### Stock History
+<img src="screenshots/history.png" width="900">
 
-![Stock History Screenshot](screenshots/history.png)
 
 ---
 
