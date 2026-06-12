@@ -253,7 +253,12 @@ This project demonstrates:
 * Software Architecture
 * Data Management
 
----
+# GitHub Realeses
+ v1.0.0 - StockWise Lite Initial Release
+
+v2.0.0 - StockWise Business Analytics Update
+
+v3.0.0 - StockWise Professional Edition
 
 #  Screenshots
 
