@@ -21,7 +21,7 @@ StockWise Lite is a professional Flutter inventory management system for small b
 - Analytics dashboard with category stock overview
 - Local storage using SharedPreferences
 
-## Why This Project Is Portfolio-Friendly
+## This Project Is Portfolio-Friendly
 
 This project shows practical junior developer skills:
 

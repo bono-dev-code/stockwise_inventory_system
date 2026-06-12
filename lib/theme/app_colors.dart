@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 // This class keeps all project colours in one place.
-// The palette uses dark navy and soft green to match a professional inventory system.
+// The palette uses dark navy and soft green.
 class AppColors {
   static const bgDark = Color(0xFF0B1F2A);
   static const panelDark = Color(0xFF102D3A);
