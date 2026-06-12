@@ -270,9 +270,7 @@ Add screenshots of the following screens:
 <img src="screenshots/products.png" width="900">
 
 ### Suppliers
-
-![Suppliers Screenshot](screenshots/suppliers.png)
-
+<img src="screenshots/suppliers.png" width="900">
 ### Sales
 
 ![Sales Screenshot](screenshots/sales.png)
