@@ -87,6 +87,7 @@ The system was developed as a portfolio project to demonstrate practical softwar
 
 #  Project Structure
 
+```text
 stockwise_inventory_system/
 ├── lib/
 │   ├── main.dart
@@ -122,8 +123,7 @@ stockwise_inventory_system/
 ├── assets/
 ├── pubspec.yaml
 └── README.md
-
-
+```
 
 ---
 
