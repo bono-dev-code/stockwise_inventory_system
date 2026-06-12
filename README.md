@@ -260,8 +260,8 @@ This project demonstrates:
 Add screenshots of the following screens:
 
 ### Login Screen
+<img src="screenshots/login.png" width="900">
 
-![Login Screenshot](screenshots/login.png)
 
 ### Dashboard
 <img src="screenshots/dashboard.png" width="900">
