@@ -87,7 +87,6 @@ The system was developed as a portfolio project to demonstrate practical softwar
 
 #  Project Structure
 
-```text
 stockwise_inventory_system/
 ├── lib/
 │   ├── main.dart
@@ -112,10 +111,19 @@ stockwise_inventory_system/
 │   │   └── stock_table.dart
 │   └── theme/
 │       └── app_colors.dart
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard.png
+│   ├── products.png
+│   ├── suppliers.png
+│   ├── sales.png
+│   ├── reports.png
+│   └── history.png
 ├── assets/
 ├── pubspec.yaml
 └── README.md
-```
+
+
 
 ---
 
@@ -261,8 +269,6 @@ v2.0.0 - StockWise Business Analytics Update
 v3.0.0 - StockWise Professional Edition
 
 #  Screenshots
-
-Add screenshots of the following screens:
 
 ### Login Screen
 <img src="screenshots/login.png" width="900">
