@@ -276,8 +276,8 @@ Add screenshots of the following screens:
 <img src="screenshots/sales.png" width="900">
 
 ### Reports
+<img src="screenshots/reports.png" width="900">
 
-![Reports Screenshot](screenshots/reports.png)
 
 ### Stock History
 
