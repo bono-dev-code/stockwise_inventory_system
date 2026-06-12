@@ -4,7 +4,7 @@ import '../services/local_database_service.dart';
 import '../theme/app_colors.dart';
 
 // This screen is used for both adding a new product and editing an existing one.
-// It now includes real inventory fields: category, SKU, cost price, and selling price.
+// It includes real inventory fields: category, SKU, cost price, and selling price.
 class AddProductScreen extends StatefulWidget {
   final LocalDatabaseService database;
   final Product? product;

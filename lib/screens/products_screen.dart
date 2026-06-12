@@ -7,7 +7,7 @@ import '../theme/app_colors.dart';
 import 'add_product_screen.dart';
 
 // This screen lists all products and allows searching, filtering, viewing, editing, and deleting.
-// The user can now click a product row to see full product details and linked supplier details.
+// The user can  click a product row to see full product details and linked supplier details.
 class ProductsScreen extends StatefulWidget {
   final LocalDatabaseService database;
 
