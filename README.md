@@ -271,9 +271,9 @@ Add screenshots of the following screens:
 
 ### Suppliers
 <img src="screenshots/suppliers.png" width="900">
-### Sales
 
-![Sales Screenshot](screenshots/sales.png)
+### Sales
+<img src="screenshots/sales.png" width="900">
 
 ### Reports
 
