@@ -1,0 +1,16 @@
+name: stockwise_inventory_system
+description: StockWise is a lightweight inventory management system built with Flutter to help small businesses manage products, suppliers, sales, and low-stock alerts through a clean dashboard interface.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.3
+  intl: ^0.19.0
+
+flutter:
+  uses-material-design: true
