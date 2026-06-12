@@ -264,8 +264,7 @@ Add screenshots of the following screens:
 ![Login Screenshot](screenshots/login.png)
 
 ### Dashboard
-
-![Dashboard Screenshot](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" width="900">
 
 ### Products
 <img src="screenshots/products.png" width="900">
