@@ -268,8 +268,7 @@ Add screenshots of the following screens:
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
 ### Products
-
-![Products Screenshot](screenshots/products.png)
+<img src="screenshots/products.png" width="900">
 
 ### Suppliers
 
